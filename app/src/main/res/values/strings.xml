@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Lubimec_CRM</string>
+    <string name="week_mon">ПН</string>
+    <string name="week_tue">ВТ</string>
+    <string name="week_wed">СР</string>
+    <string name="week_thu">ЧТ</string>
+    <string name="week_fri">ПТ</string>
+    <string name="week_sat">СБ</string>
+    <string name="week_sun">ВС</string>
+
+    <string-array name="animals">
+        <item>Кошачие</item>
+        <item>Собачие</item>
+        <item>Парнокопытное</item>
+        <item>Непарнокопытное</item>
+    </string-array>
+
+    <string-array name="sex">
+        <item>Женский</item>
+        <item>Мужской</item>
+        <item>Стерилизована</item>
+        <item>Кастрирован</item>
+    </string-array>
+
+    <string-array name="veterinarian">
+        <item>Яковлева О.В.</item>
+        <item>Вершинина Ю.Н.</item>
+        <item>Толстихина А.</item>
+
+    </string-array>
+
+    <string-array name="role_reg">
+        <item>Выберите роль</item>
+        <item>Врач</item>
+        <item>Ассистент</item>
+        <item>Администратор</item>
+        <item>Другое</item>
+
+    </string-array>
+
+</resources>
